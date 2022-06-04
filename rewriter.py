@@ -26,7 +26,7 @@ list4 = []
 
 for four in list3 :
     whatWeNeed4 = four.replace("", "")
-    list4.append(whatWeNeed4)#
+    list4.append(whatWeNeed4)
 
 list5 = []
 
